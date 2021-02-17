@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(142, 247, 147);
+  text-align: center;
+}
+body {
+  max-width: 100%;
+  padding: 60px;
+  background: #333;
+}
+table {
+  background-color: rgb(185, 176, 176);
+  width: 100%;
+}
